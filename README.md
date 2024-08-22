@@ -1,6 +1,6 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=70" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A7%80%EB%A7%9D%EC%83%9D+%EC%9E%A5%EC%A7%80%EB%8B%B4%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A7%80%EB%A7%9D%EC%83%9D+%EC%9E%A5%EC%A7%80%EB%8B%B4%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a> -->
 </p>
 
 
@@ -10,7 +10,6 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=jd99iam"/>
 </p>
-
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
