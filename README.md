@@ -1,8 +1,3 @@
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=jd99iam"/>
-</p>
-
 <h3 align="center">✨ Tech Blog ✨</h3>
 <div align="center">
   <a href="https://blog9909.tistory.com/">Tistory</a>
