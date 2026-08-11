@@ -5,7 +5,7 @@
 
 <h3 align="center">✨ Study ✨</h3>
 <div align="center">
-  <a href="https://github.com/rlfrkdms1/effective-java-study">Effective Java Study</a>
+  <a href="https://github.com/rlfrkdms1/effective-java-study">Effective Java</a>
 </div>
 <div align="center">
   <a href="https://blog9909.tistory.com/category/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C">운영체제</a>
